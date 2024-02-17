@@ -1,6 +1,6 @@
 var DetectLanguage = require('detectlanguage');
 
-var detectlanguage = new DetectLanguage('457a4bb150e06fbf73f2dcd430be725a');
+var detectlanguage = new DetectLanguage('API_KEY');
 
 const text = ["हैलो, क्या हाल हैं","这是一个非常好的API", "to jest bardzo dobre API"];
 // const text = ["to jest bardzo dobre API"];
